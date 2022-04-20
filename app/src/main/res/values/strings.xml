@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcome">Detective de Cine</string>
+    <string name="investiga">INVESTIGA</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="question">¿Está seguro de que quiere eliminar esta película?</string>
+    <string name="eliminarTitulo">Eliminar película</string>
+    <string name="nuevaPel">Nueva Película</string>
+    <string name="titulo">Título</string>
+    <string name="director">Director</string>
+    <string name="ano">Año</string>
+    <string name="genero">Género</string>
+    <string name="peliculaspattern">peliculasPattern</string>
+    <string name="editPeli">Editar Película</string>
+</resources>
