@@ -1,5 +1,4 @@
 package com.example.recyclerviewexample
-import android.text.Editable
 import androidx.lifecycle.ViewModel
 
 class VM: ViewModel() {

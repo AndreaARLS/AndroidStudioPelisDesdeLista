@@ -29,9 +29,6 @@ class SecondFragment : Fragment() {
         _binding = FragmentSecondBinding.inflate(inflater, container, false)
         return binding.root
 
-        binding.nuevo.setOnClickListener(){
-            findNavController().navigate(R.id.action_SecondFragment_to_thirdFragment2)
-        }
 
 
     }
